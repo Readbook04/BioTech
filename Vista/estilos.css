@@ -182,7 +182,7 @@ color: #fff;
 /*BANNER*/
 
 .banner{
-    background-image: url(/Source/product-bg.png);
+    background-image: url(../../Source/product-bg.png);
     height: 60rem;
     background-size: cover;
     background-position:center ;
@@ -293,21 +293,21 @@ padding: 25rem 0;
 
 .category-inteligente{
 
-    background-image: linear-gradient(#00000080, #00000080),url(/Source/jardin\ inteli.jpg);
+    background-image: linear-gradient(#00000080, #00000080),url(../../Source/WhatsApp Image 2023-09-27 at 23.40.46.jpeg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat ;
 }
 
 .category-plantas{
-    background-image: linear-gradient(#00000080, #00000080),url(/Source/plantas.jpg);
+    background-image: linear-gradient(#00000080, #00000080),url(../../Source/plantas.jpg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat ;
 }
 
 .category-decoraciones{
-    background-image: linear-gradient(#00000080, #00000080),url(/Source/decoracion.jpg);
+    background-image: linear-gradient(#00000080, #00000080),url(../../Source/decoracion.jpg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat ;
